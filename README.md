@@ -11,7 +11,7 @@ Es una plataforma pensada para la gestión de medios digitales. La aplicación p
 
 ---
 
-## 🛠️ ¿Cómo utilizarlo?
+##  ¿Cómo utilizarlo?
 
 1. **Clonar el repositorio:**
    ```bash
